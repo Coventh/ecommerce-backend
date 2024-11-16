@@ -1,23 +1,19 @@
-<a href="https://www.buymeacoffee.com/numq"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a one way ticket&emoji=✈️&slug=numq&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
 # E-commerce backend
 
 > This is an overview of the project. Go to the submodule to see the implementation details of a specific service.
 
 E-commerce backend based on the gRPC microservices ecosystem and Clean Architecture principles, includes: _authentication, shopping, ordering, promo usage, delivery, shipping tracking, etc_
 
-____
-
-[Try plugin for IntelliJ, make it easy to generate Protobuf code](https://plugins.jetbrains.com/plugin/21792-protobuf-blueprint)
+---
 
 [![Protobuf Blueprint](https://github.com/numq/protobuf-blueprint-plugin/blob/master/media/logo.png)](https://plugins.jetbrains.com/plugin/21792-protobuf-blueprint)
 
 ## Design features:
 
-- Multilanguage: *Golang, TypeScript*
-- *JWT* authentication
-- *gRPC* based microservices
-- *gRPC* based gateway
+- Multilanguage: _Golang, TypeScript_
+- _JWT_ authentication
+- _gRPC_ based microservices
+- _gRPC_ based gateway
 
 ![Overview](./media/ecommerce-backend-overview.png)
 
